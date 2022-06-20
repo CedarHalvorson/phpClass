@@ -1,0 +1,1 @@
+// Create a new JS class for students
